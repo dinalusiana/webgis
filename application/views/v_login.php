@@ -1,7 +1,7 @@
 <div class="col-sm-7">
     <div class="panel panel-primary">
         <div class="panel-heading">
-            Input Data User
+            Input Data User/Pengguna
         </div>
         <div class="panel-body">
             <?php 
